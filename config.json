@@ -1,0 +1,7 @@
+{
+    "graphviz_program_path": "/opt/homebrew/bin/dot",
+    "package_name": "spring-boot-starter-parent",
+    "graph_image_path": "dependencies_graph",
+    "max_depth": 10,
+    "pom_file_path": "pom.xml"
+}
