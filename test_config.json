@@ -1,0 +1,1 @@
+{"graphviz_program_path": "/usr/bin/dot", "package_name": "MyProject", "graph_image_path": "dependencies_graph.png", "max_depth": 2, "pom_file_path": "pom.xml"}

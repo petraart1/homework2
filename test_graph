@@ -1,0 +1,13 @@
+digraph {
+	Project [label=MyProject shape=box]
+	"org.example:example-artifact
+1.0.0" [label="org.example:example-artifact
+1.0.0"]
+	Project -> "org.example":"example-artifact
+1.0.0"
+	"com.test:test-artifact
+N/A" [label="com.test:test-artifact
+N/A"]
+	Project -> "com.test":"test-artifact
+N/A"
+}

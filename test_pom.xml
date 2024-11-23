@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>example-artifact</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.test</groupId>
+            <artifactId>test-artifact</artifactId>
+        </dependency>
+    </dependencies>
+</project>
